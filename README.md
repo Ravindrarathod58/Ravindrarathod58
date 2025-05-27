@@ -56,8 +56,8 @@ You'll find a variety of projects using my favorite tech stack!
 
 ## 📫 Get in Touch
 
-- Email: [your.email@example.com](mailto:r.ravindrs58@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ravindra-rathod-185096261/)
+- Email: [r.ravindrs58@gmail.com](mailto:r.ravindrs58@gmail.com)
+- LinkedIn: [Ravindra Rathod](https://www.linkedin.com/in/ravindra-rathod-185096261/)
 
 ---
 
