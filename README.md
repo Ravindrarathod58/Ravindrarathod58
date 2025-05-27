@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ravindra Rathod
 
 [![GitHub followers](https://img.shields.io/github/followers/Ravindrarathod58?label=Follow&style=social)](https://github.com/Ravindrarathod58)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white](https://www.linkedin.com/in/ravindra-rathod-185096261/))](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/ravindra-rathod-185096261/)
 [![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r.ravindrs58@gmail.com)
 
 ---
