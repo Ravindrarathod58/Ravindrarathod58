@@ -30,6 +30,8 @@ Currently diving deeper into enterprise backend development with Spring Boot.
 
 **Frameworks/Libraries:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/Node-61DAFB?style=flat&logo=Node&logoColor=black)
+![React](https://img.shields.io/badge/Tailwind-61DAFB?style=flat&logo=Tailwind&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/AntD-0170FE?style=flat&logo=ant-design&logoColor=white)
