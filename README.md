@@ -97,12 +97,13 @@ const ravindra = {
 
 </div>
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - [ ] Contribute to 5 major open source projects
 - [ ] Build a microservices-based project
 - [ ] Learn cloud technologies (AWS/Azure)
 - [ ] Mentor junior developers
 - [ ] Write technical blog posts
+
 
 ## 💼 Featured Projects
 
