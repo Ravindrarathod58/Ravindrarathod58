@@ -8,7 +8,7 @@
   
   🌟 **Crafting digital experiences with passion and precision** 🌟
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-CodeMagicX-6366f1?style=for-the-badge&logoColor=white)](https://www.codemagicx.com)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-CodeMagicX-6366f1?style=for-the-badge&logoColor=white)](https://ravindra.codemagicx.in)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-rathod-185096261/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.ravindrs58@gmail.com)
   [![GitHub](https://img.shields.io/github/followers/Ravindrarathod58?label=Follow&style=social&color=6366f1)](https://github.com/Ravindrarathod58)
