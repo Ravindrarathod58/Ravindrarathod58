@@ -24,124 +24,159 @@
 
 ---
 
-## `$ whoami`
+<div align="center">
 
-```java
-public class Ravindra extends SoftwareEngineer {
+```javascript
+const Ravindra = () => {
+  return <Engineer location="India" passion="React & JavaScript" />;
+};
+```
 
-    private final String location       = "India 🇮🇳";
-    private final String focus          = "Enterprise Backend Development";
-    private final String[] superPowers  = {"Java", "Spring Boot", "React", "System Design"};
-    private final String[] currentlyLearning = {
-        "Microservices Architecture",
-        "Cloud Technologies (AWS/Azure)",
-        "Distributed Systems"
-    };
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F7DF1E&center=true&vCenter=true&width=650&lines=const+me+%3D+new+FrontendEngineer()%3B;React+Developer+%7C+JS+Enthusiast;Building+pixel-perfect+UIs;Node.js+%26+Express+for+the+backend;Always+shipping%2C+never+stopping." alt="Typing SVG" />
 
-    @Override
-    public String getFunFact() {
-        return "I debug with console.log() and I'm not ashamed! 😄";
-    }
+<br/>
 
-    @Override
-    public String getPhilosophy() {
-        return "Good code is like a good joke – if you have to explain it, it's probably not that good.";
-    }
-}
+[![Portfolio](https://img.shields.io/badge/Portfolio-codemagicx.in-F7DF1E?style=flat-square&labelColor=1a1a1a)](https://ravindra.codemagicx.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-rathod-185096261/)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-Drop_a_Line-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:r.ravindrs58@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/Ravindrarathod58?label=Follow&style=flat-square&color=F7DF1E&labelColor=1a1a1a)](https://github.com/Ravindrarathod58)
+
+<img src="https://komarev.com/ghpvc/?username=Ravindrarathod58&label=PROFILE+VIEWS&color=F7DF1E&style=flat-square&labelColor=1a1a1a" />
+
+</div>
+
+---
+
+## `// about me`
+
+```jsx
+// Ravindra.jsx
+
+import { useState } from "react";
+
+const Ravindra = () => {
+  const [skills] = useState({
+    languages : ["JavaScript (ES6+)", "HTML5", "CSS3"],
+    frontend  : ["React", "Tailwind CSS", "Bootstrap", "Ant Design"],
+    backend   : ["Node.js", "Express.js", "REST APIs"],
+    tools     : ["Git", "Docker", "VS Code", "Postman", "Vite"],
+    databases : ["MongoDB", "MySQL", "PostgreSQL"],
+    learning  : ["Next.js", "Redux Toolkit", "Microservices", "AWS"],
+  });
+
+  const funFact = "I debug with console.log() and I'm not ashamed";
+  const belief  = "Good code is self-explanatory. Great code tells a story.";
+
+  return <AwesomeDeveloper data={skills} based="India" />;
+};
+
+export default Ravindra;
 ```
 
 ---
 
-## `$ cat tech_stack.json`
+## `// tech stack`
 
 <div align="center">
 
-### ⚙️ Core Languages
+### Core — JavaScript Ecosystem
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🚀 Frameworks & Runtimes
+### Frontend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🎨 UI & Styling
+### Styling
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tools & DevOps
+### Backend
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## `$ git log --stats`
+## `// github stats`
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ravindrarathod58&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindrarathod58&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ravindrarathod58&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=F7DF1E&icon_color=61DAFB&text_color=c9d1d9" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindrarathod58&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F7DF1E&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ravindrarathod58&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" />
+  <img src="https://streak-stats.demolab.com/?user=Ravindrarathod58&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=F7DF1E&ring=F7DF1E&fire=61DAFB&currStreakLabel=F7DF1E" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindrarathod58&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindrarathod58&bg_color=0d1117&color=F7DF1E&line=61DAFB&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
-## `$ ls -la /current_projects`
+## `// what I'm building`
 
-> 🔭 **Building** → Enterprise-grade REST APIs with Spring Boot + Spring Security  
-> 🌱 **Learning** → Microservices with Spring Cloud, Docker Compose, API Gateways  
-> ☁️ **Exploring** → AWS (EC2, S3, RDS) and cloud-native deployment patterns  
-> 🤝 **Open to** → Collaborating on open source Java/React projects  
-> ✍️ **Planning** → Writing tech articles on backend development & system design
+```js
+// current_status.js
 
----
-
-## `$ cat /2025_goals.md`
-
-```
-📌 ROADMAP 2025
-════════════════════════════════════════════════════
-
-  [ ] Contribute to 5+ major open source projects
-  [ ] Build a production-ready microservices project
-  [ ] Achieve AWS Cloud Practitioner Certification
-  [ ] Mentor junior developers in the community
-  [ ] Publish technical blog posts on Medium / Dev.to
-  [ ] Reach 500+ GitHub contributions
-
-════════════════════════════════════════════════════
-  Progress: ██░░░░░░░░ 20% — Stay tuned! 🚀
+module.exports = {
+  building  : "Full-stack apps with React + Node.js + Express",
+  exploring : ["Next.js SSR/SSG", "Redux Toolkit", "AWS", "Microservices"],
+  openTo    : ["Open Source Collabs", "Freelance Projects", "Full-time Roles"],
+  goal2025  : "Ship. Learn. Repeat.",
+};
 ```
 
 ---
 
-## `$ cat /achievements`
+## `// 2025 roadmap`
+
+```
+GOALS — 2025
+══════════════════════════════════════════════════════
+
+  [ ] Build 3+ production-grade React projects
+  [ ] Master Next.js and server-side rendering
+  [ ] Deep-dive into Redux Toolkit and Zustand
+  [ ] Contribute to 5+ open source JS/React repos
+  [ ] Get AWS Cloud Practitioner certified
+  [ ] Write technical blogs on React and JS patterns
+  [ ] Mentor junior frontend developers
+
+══════════════════════════════════════════════════════
+  Progress: [███░░░░░░░] 30% — Loading...
+```
+
+---
+
+## `// achievements`
 
 <div align="center">
 
@@ -151,18 +186,19 @@ public class Ravindra extends SoftwareEngineer {
 
 ---
 
-## `$ curl wttr.in/motivation`
+## `// favorite quote`
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*  
-> — John Johnson
+> *"JavaScript is the only language where you can write something terrible and have it work perfectly."*
+>
+> — And that's exactly why we love it.
 
 </div>
 
 ---
 
-## `$ tail -f /contribution_snake.log`
+## `// contribution snake`
 
 <div align="center">
 
@@ -172,27 +208,28 @@ public class Ravindra extends SoftwareEngineer {
 
 ---
 
-## `$ ping ravindra`
+## `// let's connect`
 
 <div align="center">
 
-```
-PING ravindra.dev — always open to exciting ideas and collaborations!
-
-Reply from ravindra: bytes=∞  time=<1ms  TTL=64
-Reply from ravindra: bytes=∞  time=<1ms  TTL=64
+```jsx
+<ConnectWithMe
+  open_to="anything exciting"
+  response_time="fast"
+  vibe="collaborative"
+/>
 ```
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-rathod-185096261/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.ravindrs58@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=black)](https://ravindra.codemagicx.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F7DF1E?style=for-the-badge&logo=firefox&logoColor=black)](https://ravindra.codemagicx.in)
 
 <br/>
 
 ---
 
-<sub>⚡ Crafted with precision by <a href="https://github.com/Ravindrarathod58">Ravindrarathod58</a> · Updated 2025</sub>
+<sub>Built with React mindset and JavaScript passion by <a href="https://github.com/Ravindrarathod58">Ravindrarathod58</a> · 2025</sub>
 
 </div>
