@@ -23,10 +23,10 @@
 ```jsx
 const Ravindra = () => {
   const profile = {
-    role      : "Frontend Developer — React & JavaScript",
+    role      : "Full Stack Developer — React, JavaScript & Java",
     location  : "India",
     focus     : "Building clean, scalable, and performant web applications",
-    learning  : ["Next.js", "Redux Toolkit", "TypeScript", "AWS"],
+    learning  : ["Next.js", "Redux Toolkit", "TypeScript", "Spring Boot", "AWS"],
     openTo    : ["Open Source", "Freelance", "Full-time Roles"],
     funFact   : "I debug with console.log() and I'm not ashamed.",
   };
@@ -45,6 +45,7 @@ const Ravindra = () => {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -62,12 +63,16 @@ const Ravindra = () => {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-**Backend & Databases**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools**
 
@@ -76,6 +81,7 @@ const Ravindra = () => {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </div>
 
@@ -84,20 +90,28 @@ const Ravindra = () => {
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravindrarathod58&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=F7DF1E&icon_color=61DAFB&text_color=c9d1d9&border_radius=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindrarathod58&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7DF1E&text_color=c9d1d9&langs_count=8&border_radius=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravindrarathod58&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=F7DF1E&icon_color=61DAFB&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindrarathod58&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7DF1E&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ravindrarathod58&hide_border=true&background=0d1117&stroke=F7DF1E&ring=F7DF1E&fire=61DAFB&currStreakLabel=F7DF1E&sideLabels=c9d1d9&dates=c9d1d9&border_radius=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ravindrarathod58&hide_border=true&background=0d1117&stroke=F7DF1E&ring=F7DF1E&fire=61DAFB&currStreakLabel=F7DF1E&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindrarathod58&bg_color=0d1117&color=F7DF1E&line=61DAFB&point=F7DF1E&area_color=61DAFB&area=true&hide_border=true&border_radius=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravindrarathod58&bg_color=0d1117&color=F7DF1E&line=61DAFB&point=F7DF1E&area=true&hide_border=true" />
+</div>
+
+---
+
+### GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravindrarathod58&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&column=4&no-bg=true" />
 </div>
 
 ---
@@ -105,11 +119,11 @@ const Ravindra = () => {
 ### Current Focus
 
 ```js
-// status.js — February 2025
+// status.js — 2025
 
 module.exports = {
-  building  : "Full-stack web apps with React, Node.js and Express",
-  exploring : ["Next.js", "Redux Toolkit", "TypeScript", "AWS"],
+  building  : "Full-stack apps with React, Node.js, Express and Spring Boot",
+  exploring : ["Next.js", "Redux Toolkit", "TypeScript", "Microservices", "AWS"],
   goal      : "Ship meaningful products. Write clean code. Keep learning.",
 };
 ```
@@ -122,27 +136,18 @@ module.exports = {
  [ ]  Build 3+ production-grade React projects
  [ ]  Master Next.js — SSR, SSG, and App Router
  [ ]  Go deep on Redux Toolkit and Zustand
+ [ ]  Build a microservices project with Spring Boot
  [ ]  Contribute to 5+ open source JS / React repos
  [ ]  Earn AWS Cloud Practitioner certification
  [ ]  Publish technical articles on React and JS patterns
- [ ]  Mentor junior frontend developers
+ [ ]  Mentor junior developers
 
  Progress  ████░░░░░░░░░░░  30%
 ```
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ravindrarathod58&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&column=4&no-bg=true)
-
-</div>
-
----
-
-### Contribution Graph
+### Contribution Snake
 
 <div align="center">
 
@@ -174,6 +179,6 @@ module.exports = {
 
 ---
 
-<sub>Ravindrarathod58 &nbsp;·&nbsp; React & JavaScript Developer &nbsp;·&nbsp; 2025</sub>
+<sub>Ravindrarathod58 &nbsp;·&nbsp; React, JavaScript & Java Developer &nbsp;·&nbsp; 2025</sub>
 
 </div>
